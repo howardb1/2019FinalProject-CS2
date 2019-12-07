@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 public class GalagaGUI extends Application {
 
-	Button button;
+	Button button; 
 	
 	
 	
